@@ -6,8 +6,8 @@
             "id": "53536e38-2d4c-4b77-bd3b-ab318a16b3f4",
             "actions": [
                 {
-                    "name": "PrimaryTouch",
-                    "type": "Value",
+                    "name": "TouchInput",
+                    "type": "PassThrough",
                     "id": "812ede70-4f15-47c5-903c-5ac173fef0bc",
                     "expectedControlType": "",
                     "processors": "",
@@ -23,7 +23,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "PrimaryTouch",
+                    "action": "TouchInput",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
