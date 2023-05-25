@@ -292,7 +292,7 @@ GameObject:
   - component: {fileID: 1761554759}
   - component: {fileID: 1761554760}
   m_Layer: 0
-  m_Name: BootstrapInstaller
+  m_Name: PreloaderInstaller
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
